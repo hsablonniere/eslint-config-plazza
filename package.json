@@ -1,0 +1,18 @@
+{
+    "name": "eslint-config-plazza",
+    "version": "1.0.0",
+    "description": "An opinionated eslint conf for Node, browsers, and frameworks",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Maxime Ghignet (https://twitter.com/@mghignet) & Hubert Sablonnière (https://twitter.com/@hsablonniere)",
+    "license": "MIT",
+    "keywords": [
+        "eslint",
+        "eslintconfig",
+        "config",
+        "plazza",
+        "javascript",
+        "styleguide"
+    ]
+}
