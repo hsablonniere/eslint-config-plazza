@@ -1,3 +1,19 @@
 = eslint-config-plazza
 
-WIP
+This is an extensible config for ESlint with rules that we think help avoid errors and improve readability of the code.
+
+## Usage
+
+Two configs are provided, one for the browser and one for Node.
+
+### Browser
+
+1. `npm i -DE eslint-config-plazza babel-eslint eslint`
+2. add `"extends": "plazza/browser"` to your .eslintrc
+
+### Node
+
+1. `npm i -DE eslint-config-plazza babel-eslint eslint`
+2. add `"extends": "plazza/node"` to your .eslintrc
+
+Here's some doc to extend the config: (http://eslint.org/docs/user-guide/configuring#extending-configuration-files)
