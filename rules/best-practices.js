@@ -186,7 +186,7 @@ module.exports = {
         'no-void': 2,
 
         // disallow usage of configurable warning terms in commentse.g. TODO or FIXME
-        'no-warning-comments': [1, { 'terms': ['todo', 'fixme'], 'location': 'start' }],
+        'no-warning-comments': [1, { 'terms': ['TODO', 'FIXME'], 'location': 'start' }],
 
         // disallow use of the with statement
         'no-with': 2,
